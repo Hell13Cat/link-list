@@ -1,2 +1,17 @@
-{"":"",
-"":""}
+[
+    {
+        "name_en":"Link shortening",
+        "name_ru":"Сокращение ссылок",
+        "name_file":"link-shortening.txt"
+    },
+    {
+        "name_en":"Porn sites",
+        "name_ru":"Порно сайты",
+        "name_file":"pornsites.txt"
+    },
+    {
+        "name_en":"Suspicious earnings",
+        "name_ru":"Подозрительный заработок",
+        "name_file":"suspicious-earnings.txt"
+    }
+]
