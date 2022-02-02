@@ -1,12 +1,12 @@
 [
     {
-        "id":"link-short,
+        "id":"link-short",
         "name_en":"Link shortening",
         "name_ru":"Сокращение ссылок",
         "name_file":"link-shortening.txt"
     },
     {
-        "id":"porn-sites"",
+        "id":"porn-sites",
         "name_en":"Porn sites",
         "name_ru":"Порно сайты",
         "name_file":"pornsites.txt"
